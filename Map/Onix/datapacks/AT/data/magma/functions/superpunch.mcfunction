@@ -1,0 +1,1 @@
+give @a[team=red,level=30..,gamemode=adventure] stone_sword{Damage:129,CustomModelData:1,Enchantments:[{id:"minecraft:knockback",lvl:3s}]} 1

@@ -1,0 +1,2 @@
+give @a[team=blue,level=30..,gamemode=adventure] stone_sword{Damage:129,CustomModelData:2,Enchantments:[{id:"minecraft:knockback",lvl:3s}]} 1
+xp add @a[team=blue,gamemode=adventure,level=30..] -30 levels
