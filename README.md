@@ -1,8 +1,19 @@
 ### Gant Connecté pour Environnement Virtuel : Mini-jeu Minecraft
 
-#### 🎥 Démonstration et Présentation du Projet
+#### 🎥 Présentation de la Vidéo
 
-[**Voir la vidéo sur YouTube**](https://www.youtube.com/watch?v=33_mbglr2H0)
+La vidéo liée au projet est divisée en **deux parties distinctes** :
+
+1. **Présentation et explication** : Une introduction détaillée au projet, expliquant le fonctionnement, les objectifs, et les éléments techniques.
+2. **Démonstration** : Une mise en pratique montrant le gant connecté en action dans l'environnement Minecraft.
+
+**💡 Astuce :**  
+Vous n'êtes pas obligé de regarder les deux parties dans leur intégralité. Vous pouvez :
+
+- Visionner uniquement la **présentation** si vous souhaitez comprendre les détails techniques et conceptuels.
+- Passer directement à la **démonstration** pour voir le projet en fonctionnement.
+
+[**Voir la vidéo ici**](https://www.youtube.com/watch?v=33_mbglr2H0)
 
 ---
 
